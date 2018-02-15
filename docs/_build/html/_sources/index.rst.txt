@@ -10,7 +10,6 @@ Please take a look around! I keep up with the site fairly regularly and post upd
 
 .. toctree::
    :maxdepth: 2
-   :titlesonly:
 
    Curriculum Vitae <cv>
    Contact <contact>
