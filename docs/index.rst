@@ -6,17 +6,11 @@
 Welcome to Joshua Whitehurst's Personal Website!
 ================================================================
 
-Please take a look around! I keep up with the site fairly regularly and post updates as they come. See the table of contents below for some navigation help.
+Pardon the dust as I get this place presentable!
+
 
 .. toctree::
    :maxdepth: 2
-
-   Curriculum Vitae <cv>
-   Contact <contact>
-   About Me <about_me>
-   Research Interests and Ongoing Projects <research_projects>
-   Essays <essay_index>
-
 
 
 * :ref:`search`
